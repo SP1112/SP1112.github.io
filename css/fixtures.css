@@ -88,7 +88,7 @@ section{
 
 /* ändrar utseendet på Gör så att match korten kan byggas */
 article{
-    background-color: gray;
+    background-color: #504E4E;
     display: grid;
     grid-template-columns: repeat(3, 100px);
     grid-template-rows: repeat(3, 50px);

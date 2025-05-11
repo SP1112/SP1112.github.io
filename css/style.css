@@ -95,7 +95,7 @@ section{
 
 /* ändrar utseendet på huvud texten */
 article{
-    background-color: rgba(51, 50, 50, 0.594);
+    background-color: #504E4E;
     justify-self: center;
     width: 36%;
     border-radius: 20px;
