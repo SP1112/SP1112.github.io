@@ -8,7 +8,7 @@
 body{
     margin: 0;
     padding: 0;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     color: white;
 }
 
@@ -95,18 +95,21 @@ section{
 
 /* ändrar utseendet på huvud texten */
 article{
-    background-color: rgba(105, 102, 102, 0.594);
+    background-color: rgba(51, 50, 50, 0.594);
     justify-self: center;
-    width: 90%;
-    line-height: 30px;
+    width: 36%;
     border-radius: 20px;
     margin-top: 3%;
-    padding: 8px;
+    padding: 1%;
+    line-height: 0.7cm;
 }
 
-
-article li {
+article ul li{
     line-height: 40px;
+    list-style-position: inside;
+    margin: 0;
+    padding-left: 10px;
+    line-height: 0.7cm;
 }
 
 /* ändrar utseendet på sid foten */
